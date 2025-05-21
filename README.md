@@ -35,9 +35,9 @@ This is an Internet of Things (IoT) project developed to assist Muslims in locat
   - Calculates and points toward Qiblat direction (fixed for Malaysia region).
 
 - 🙏 **Rakaat Counter**:
-  - Button-based interaction to count each rakaat.
-  - OLED display shows current rakaat count during prayer.
-  - Reset option after prayer ends.
+  - Automatically counts each rakaat using a **motion sensor**.
+  - Every two prostrations (sujood) are recognized and counted as **one rakaat**, following the structure of Muslim prayer.
+  - The **OLED display** shows the current rakaat count in real time during prayer.
 
 ## 📷 Screenshots / Circuit Diagram
 
