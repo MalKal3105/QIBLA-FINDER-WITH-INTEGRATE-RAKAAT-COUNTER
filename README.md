@@ -36,7 +36,7 @@ This is an Internet of Things (IoT) project developed to assist Muslims in locat
 
 - 🙏 **Rakaat Counter**:
   - Automatically counts each rakaat using a **motion sensor**.
-  - Every two prostrations (sujood) are recognized and counted as **one rakaat**, following the structure of Muslim prayer.
+  - Every two prostrations (sujood) are recognized and counted as **one rakaat**.
   - The **OLED display** shows the current rakaat count in real time during prayer.
 
 ## 📷 Screenshots / Circuit Diagram
