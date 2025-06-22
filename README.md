@@ -62,11 +62,10 @@ This is an Internet of Things (IoT) project developed to assist Muslims in locat
 - The compass (HMC5883L) must be calibrated and placed away from magnetic interference.
 - The Qiblat angle is pre-calculated based on geographical location in Malaysia. You may modify the reference bearing for other countries.
 
-## 📍 Limitations
+## 🎯 Target Users
 
-- Designed and calibrated specifically for Malaysia.
-- No GPS or location-based dynamic Qiblat calculation.
-- Manual rakaat input (no automatic detection).
+- 🧭 **Hikers or travelers** who perform prayer in remote locations without internet access.
+- 👴 **Elderly individuals** who may struggle to remember the number of rakaat during prayer.
 
 ## 🙋‍♂️ Author
 
